@@ -15,7 +15,7 @@ def create_infographic(infographic_type, team_logo_file, team_name, championship
     # 1. Выбрать фон в зависимости от типа инфографики
     background_image_path = "assets/background.png"
     try:
-        # Создаем непрозрачный базовый слой с цветом #848484
+        # Создаем непрозрачный базовый слой с цветом #848484 - серый - это костыль для того чтобы фон не прозрачный был 
         base_layer = Image.new('RGB', (1000, 1400), (132, 132, 132))  # #848484 в RGB, фиксированный размер
         
         # Загружаем фоновое изображение
