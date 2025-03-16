@@ -1,0 +1,60 @@
+{
+    "infographic_type": "Статистика",
+    "team_logo_path": "",
+    "team_name": "rush ventura",
+    "championship_name": "aimol miks",
+    "stage_number": "5",
+    "pilot1_photo_path": "E:/code/RacingInfographicApp/assets/pilot/Чекалов 34 руки.png",
+    "pilot1_name": "Антон Чекалов",
+    "pilot2_photo_path": "E:/code/RacingInfographicApp/assets/pilot/Дальцев 34 руки.png",
+    "pilot2_name": "Егор Дальцев",
+    "pilot3_photo_path": "E:/code/RacingInfographicApp/assets/pilot/Малышев 34 руки.png",
+    "pilot3_name": "Михаил Малышев",
+    "pilot1_stats_photo_path": "E:/code/RacingInfographicApp/assets/pilot/Чекалов профиль руки.png",
+    "pilot2_stats_photo_path": "E:/code/RacingInfographicApp/assets/pilot/Дальцев профиль руки.png",
+    "pilot3_stats_photo_path": "E:/code/RacingInfographicApp/assets/pilot/Малышев профиль руки.png",
+    "manager_name": "Андрей Котов",
+    "date_group": "1 марта     |     группа с",
+    "pilots_count": "12",
+    "stages_count": "7",
+    "pilot1_krugi": "1",
+    "pilot1_luchshee": "11,111",
+    "pilot1_srednee": "11,114",
+    "pilot2_krugi": "2",
+    "pilot2_luchshee": "22,222",
+    "pilot2_srednee": "22,224",
+    "pilot3_krugi": "3",
+    "pilot3_luchshee": "33,333",
+    "pilot3_srednee": "33,334",
+    "race_results": [
+        {
+            "stage": 3,
+            "place": 7
+        },
+        {
+            "stage": 1,
+            "place": 5
+        },
+        {
+            "stage": 2,
+            "place": 3
+        },
+        {
+            "stage": 4,
+            "place": 12
+        },
+        {
+            "stage": 5,
+            "place": 11
+        },
+        {
+            "stage": 6,
+            "place": 1
+        },
+        {
+            "stage": 7,
+            "place": 10
+        }
+    ],
+    "save_folder_path": "E:/код/тесты"
+}

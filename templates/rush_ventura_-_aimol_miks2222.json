@@ -1,0 +1,56 @@
+{
+    "infographic_type": "Результаты гонок",
+    "team_logo_path": "",
+    "team_name": "rush ventura",
+    "championship_name": "aimol miks",
+    "stage_number": "",
+    "pilot1_photo_path": "",
+    "pilot1_name": "",
+    "pilot2_photo_path": "",
+    "pilot2_name": "",
+    "pilot3_photo_path": "",
+    "pilot3_name": "",
+    "manager_name": "",
+    "date_group": "",
+    "pilots_count": "12",
+    "stages_count": "7",
+    "pilot1_krugi": "",
+    "pilot1_luchshee": "",
+    "pilot1_srednee": "",
+    "pilot2_krugi": "",
+    "pilot2_luchshee": "",
+    "pilot2_srednee": "",
+    "pilot3_krugi": "",
+    "pilot3_luchshee": "",
+    "pilot3_srednee": "",
+    "race_results": [
+        {
+            "stage": 3,
+            "place": 7
+        },
+        {
+            "stage": 1,
+            "place": 5
+        },
+        {
+            "stage": 2,
+            "place": 3
+        },
+        {
+            "stage": 4,
+            "place": 12
+        },
+        {
+            "stage": 5,
+            "place": 11
+        },
+        {
+            "stage": 6,
+            "place": 1
+        },
+        {
+            "stage": 7,
+            "place": 10
+        }
+    ]
+}
